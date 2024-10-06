@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjdkvy5+OP3B6I1On45SJvxXh2y8qznJ4tXcJ+48s+j0XRAT83RLSan4uYXVqgyMzvg2fpvDwMerh1njbqArSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ServerSide\\ServerSide\\ServerSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
